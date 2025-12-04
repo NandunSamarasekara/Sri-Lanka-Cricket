@@ -10,11 +10,13 @@ Sri Lanka,won,19 runs,0,won,2nd,v West Indies,Pallekele,2015-11-07
 Sri Lanka,lost,7 wickets,174,won,1st,v New Zealand,Christchurch,2015-12-26
 Sri Lanka,lost,10 wickets,250,won,1st,v New Zealand,Christchurch,2015-12-28
 Sri Lanka,won,8 wickets,22,lost,2nd,v New Zealand,Nelson,2015-12-31
+Sri Lanka,n/r,-,0,won,2nd,v New Zealand,Nelson,2016-01-02
 Sri Lanka,lost,36 runs,0,won,2nd,v New Zealand,Mount Maunganui,2016-01-05
 Sri Lanka,won,76 runs,0,lost,1st,v Ireland,Dublin (Malahide),2016-06-16
 Sri Lanka,won,136 runs,0,lost,1st,v Ireland,Dublin (Malahide),2016-06-18
 Sri Lanka,tied,-,0,lost,1st,v England,Nottingham,2016-06-21
 Sri Lanka,lost,10 wickets,95,won,1st,v England,Birmingham,2016-06-24
+Sri Lanka,n/r,-,0,lost,1st,v England,Bristol,2016-06-26
 Sri Lanka,lost,6 wickets,11,lost,1st,v England,The Oval,2016-06-29
 Sri Lanka,lost,122 runs,0,won,2nd,v England,Cardiff,2016-07-02
 Sri Lanka,lost,3 wickets,19,lost,1st,v Australia,Colombo (RPS),2016-08-21
@@ -24,6 +26,7 @@ Sri Lanka,lost,6 wickets,114,won,1st,v Australia,Dambulla,2016-08-31
 Sri Lanka,lost,5 wickets,42,won,1st,v Australia,Pallekele,2016-09-04
 Sri Lanka,won,8 wickets,153,won,2nd,v Zimbabwe,Harare,2016-11-14
 Sri Lanka,lost,62 runs,0,won,2nd,v West Indies,Harare,2016-11-16
+Sri Lanka,n/r,-,0,lost,2nd,v Zimbabwe,Bulawayo,2016-11-21
 Sri Lanka,won,1 runs,0,lost,1st,v West Indies,Bulawayo,2016-11-23
 Sri Lanka,won,6 wickets,75,lost,2nd,v Zimbabwe,Bulawayo,2016-11-27
 Sri Lanka,lost,8 wickets,94,lost,1st,v South Africa,Gqeberha,2017-01-28
@@ -32,6 +35,7 @@ Sri Lanka,lost,7 wickets,108,lost,1st,v South Africa,Johannesburg,2017-02-04
 Sri Lanka,lost,40 runs,0,lost,2nd,v South Africa,Cape Town,2017-02-07
 Sri Lanka,lost,88 runs,0,won,2nd,v South Africa,Centurion,2017-02-10
 Sri Lanka,lost,90 runs,0,won,2nd,v Bangladesh,Dambulla,2017-03-25
+Sri Lanka,n/r,-,0,won,1st,v Bangladesh,Dambulla,2017-03-28
 Sri Lanka,won,70 runs,0,lost,1st,v Bangladesh,Colombo (SSC),2017-04-01
 Sri Lanka,lost,96 runs,0,won,2nd,v South Africa,The Oval,2017-06-03
 Sri Lanka,won,7 wickets,8,won,2nd,v India,The Oval,2017-06-08
@@ -66,6 +70,7 @@ Sri Lanka,won,3 runs,0,lost,1st,v South Africa,Pallekele,2018-08-08
 Sri Lanka,won,178 runs,0,won,1st,v South Africa,Colombo (RPS),2018-08-12
 Sri Lanka,lost,137 runs,0,lost,2nd,v Bangladesh,Dubai (DSC),2018-09-15
 Sri Lanka,lost,91 runs,0,lost,2nd,v Afghanistan,Abu Dhabi,2018-09-17
+Sri Lanka,n/r,-,0,won,2nd,v England,Dambulla,2018-10-10
 Sri Lanka,lost,31 runs,0,won,2nd,v England,Dambulla,2018-10-13
 Sri Lanka,lost,7 wickets,15,lost,1st,v England,Pallekele,2018-10-17
 Sri Lanka,lost,18 runs,0,lost,1st,v England,Pallekele,2018-10-20
@@ -78,9 +83,12 @@ Sri Lanka,lost,113 runs,0,won,2nd,v South Africa,Centurion,2019-03-06
 Sri Lanka,lost,71 runs,0,won,2nd,v South Africa,Durban,2019-03-10
 Sri Lanka,lost,6 wickets,103,lost,1st,v South Africa,Gqeberha,2019-03-13
 Sri Lanka,lost,41 runs,0,won,1st,v South Africa,Cape Town,2019-03-16
+Sri Lanka,aban,-,0,-,-,v Scotland,Edinburgh,2019-05-18
 Sri Lanka,won,35 runs,0,lost,1st,v Scotland,Edinburgh,2019-05-21
 Sri Lanka,lost,10 wickets,203,lost,1st,v New Zealand,Cardiff,2019-06-01
 Sri Lanka,won,34 runs,0,lost,1st,v Afghanistan,Cardiff,2019-06-04
+Sri Lanka,aban,-,0,-,-,v Pakistan,Bristol,2019-06-07
+Sri Lanka,aban,-,0,-,-,v Bangladesh,Bristol,2019-06-11
 Sri Lanka,lost,87 runs,0,won,2nd,v Australia,The Oval,2019-06-15
 Sri Lanka,won,20 runs,0,won,1st,v England,Leeds,2019-06-21
 Sri Lanka,lost,9 wickets,76,lost,1st,v South Africa,Chester-le-Street,2019-06-28
@@ -89,6 +97,7 @@ Sri Lanka,lost,7 wickets,39,won,1st,v India,Leeds,2019-07-06
 Sri Lanka,won,91 runs,0,won,1st,v Bangladesh,Colombo (RPS),2019-07-26
 Sri Lanka,won,7 wickets,32,lost,2nd,v Bangladesh,Colombo (RPS),2019-07-28
 Sri Lanka,won,122 runs,0,won,1st,v Bangladesh,Colombo (RPS),2019-07-31
+Sri Lanka,aban,-,0,-,-,v Pakistan,Karachi,2019-09-27
 Sri Lanka,lost,67 runs,0,lost,2nd,v Pakistan,Karachi,2019-09-30
 Sri Lanka,lost,5 wickets,10,won,1st,v Pakistan,Karachi,2019-10-02
 Sri Lanka,won,1 wickets,5,won,2nd,v West Indies,Colombo (SSC),2020-02-22
@@ -102,6 +111,7 @@ Sri Lanka,lost,103 runs,0,lost,2nd,v Bangladesh,Mirpur,2021-05-25
 Sri Lanka,won,97 runs,0,won,1st,v Bangladesh,Mirpur,2021-05-28
 Sri Lanka,lost,5 wickets,91,lost,1st,v England,Chester-le-Street,2021-06-29
 Sri Lanka,lost,8 wickets,42,lost,1st,v England,The Oval,2021-07-01
+Sri Lanka,n/r,-,0,lost,1st,v England,Bristol,2021-07-04
 Sri Lanka,lost,7 wickets,80,won,1st,v India,Colombo (RPS),2021-07-18
 Sri Lanka,lost,3 wickets,5,won,1st,v India,Colombo (RPS),2021-07-20
 Sri Lanka,won,3 wickets,48,lost,2nd,v India,Colombo (RPS),2021-07-23
@@ -117,6 +127,7 @@ Sri Lanka,won,6 wickets,9,lost,2nd,v Australia,Colombo (RPS),2022-06-19
 Sri Lanka,won,4 runs,0,lost,1st,v Australia,Colombo (RPS),2022-06-21
 Sri Lanka,lost,4 wickets,63,won,1st,v Australia,Colombo (RPS),2022-06-24
 Sri Lanka,lost,60 runs,0,lost,2nd,v Afghanistan,Pallekele,2022-11-25
+Sri Lanka,n/r,-,0,lost,2nd,v Afghanistan,Pallekele,2022-11-27
 Sri Lanka,won,4 wickets,2,lost,2nd,v Afghanistan,Pallekele,2022-11-30
 Sri Lanka,lost,67 runs,0,won,2nd,v India,Guwahati,2023-01-10
 Sri Lanka,lost,4 wickets,40,won,1st,v India,Eden Gardens,2023-01-12
