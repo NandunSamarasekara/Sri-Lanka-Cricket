@@ -49,5 +49,4 @@ located in:
 -   For opponent comparison, only ODI matches after March 2015 are used.
 
 ## 🙌 Author
-
-Automatically generated analysis via ChatGPT Assistant.
+Nandun Samarasekara
